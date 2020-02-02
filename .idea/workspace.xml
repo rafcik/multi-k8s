@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa71950b-d635-496e-9b85-94aa096d9015" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/Dockerfile.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/nginx/default.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Fib.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/OtherPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/registerServiceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Dockerfile.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/keys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worker/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worker/Dockerfile.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worker/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worker/keys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-k8s-266519-cde72b60e0d7.json.enc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +29,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\workspace\udemy\Docker and Kubernetes\k8s" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\workspace\udemy\Docker and Kubernetes\k8s\k8s" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\udemy\Docker and Kubernetes\k8s" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -69,12 +41,7 @@
       <list>
         <serviceView>
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="com.intellij.kubernetes.view.KubernetesDefaultClientServiceViewContributor@4296c5fc" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -92,7 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579636400749</updated>
       <workItem from="1579636402088" duration="15363000" />
-      <workItem from="1579982580170" duration="11812000" />
+      <workItem from="1579982580170" duration="13356000" />
+      <workItem from="1580677249376" duration="119000" />
     </task>
     <servers />
   </component>
