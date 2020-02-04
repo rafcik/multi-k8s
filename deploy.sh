@@ -10,7 +10,7 @@ docker push rafcik/multi-client:$SHA
 docker push rafcik/multi-server:$SHA
 docker push rafcik/multi-worker:$SHA
 
-kubectl apply -f k8s
+kubectl apply -f k8s2
 kubectl set image deployments/server-deployment server=rafcik/multi-server:$SHA
 kubectl set image deployments/client-deployment client=rafcik/multi-client:$SHA
 kubectl set image deployments/worker-deployment worker=rafcik/multi-worker:$SHA
