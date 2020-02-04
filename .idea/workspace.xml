@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa71950b-d635-496e-9b85-94aa096d9015" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/k8s2/client-cluster-ip-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s2/client-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s2/database-persistent-volume-claim.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s2/ingress-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s2/postgres-cluster-ip-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s2/postgres-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s2/redis-cluster-ip-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s2/redis-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s2/server-cluster-ip-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s2/server-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s2/worker-deployment.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k8s/postgres-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/k8s/postgres-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k8s2/ingress-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/k8s2/ingress-service.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +24,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/k8s2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/k8s" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\udemy\Docker and Kubernetes\k8s\k8s" />
       <recent name="C:\workspace\udemy\Docker and Kubernetes\k8s\k8s2" />
       <recent name="C:\workspace\udemy\Docker and Kubernetes\k8s" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\udemy\Docker and Kubernetes\k8s\k8s2" />
       <recent name="C:\workspace\udemy\Docker and Kubernetes\k8s\k8s" />
     </key>
   </component>
@@ -72,7 +63,7 @@
       <workItem from="1579636402088" duration="15363000" />
       <workItem from="1579982580170" duration="13356000" />
       <workItem from="1580677249376" duration="914000" />
-      <workItem from="1580758998125" duration="5065000" />
+      <workItem from="1580758998125" duration="5813000" />
     </task>
     <servers />
   </component>
