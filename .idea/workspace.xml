@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa71950b-d635-496e-9b85-94aa096d9015" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-k8s-266519-cde72b60e0d7.json.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,8 @@
       <updated>1579636400749</updated>
       <workItem from="1579636402088" duration="15363000" />
       <workItem from="1579982580170" duration="13356000" />
-      <workItem from="1580677249376" duration="119000" />
+      <workItem from="1580677249376" duration="914000" />
+      <workItem from="1580758998125" duration="3905000" />
     </task>
     <servers />
   </component>
@@ -76,10 +77,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="275" y="82" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1579982549234" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1579982734765">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580758998754">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1579982734765" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1580758998754" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1580034288496">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
